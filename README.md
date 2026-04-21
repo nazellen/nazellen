@@ -1,4 +1,4 @@
-# Hi, I'm Nazellen 👋
+# Hi, I'm Natalie 👋
 
 I am a **Senior Research Assistant at UOW** investigating the molecular mechanisms underpinning **Motor Neuron Disease (MND/ALS)**.
 
