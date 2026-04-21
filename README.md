@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nazellen 👋
 
-<!--
-**nazellen/nazellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Research Assistant at UOW** investigating the molecular mechanisms underpinning **Motor Neuron Disease (MND/ALS)**.
 
-Here are some ideas to get you started:
+By day: decoding cellular pathways and molecular signals.
+By weekend: beach walks, sunshine, and a Ricky Martin playlist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Exploring molecular pathways involved in motor neuron degeneration
+- Analysing biological data to identify disease-relevant mechanisms
+- Contributing to reproducible, collaborative neuroscience research
+
+## Skills and tools
+- Molecular biology and neurodegeneration research methods
+- Data analysis and visualization with `Python`
+- Reproducible workflows with `Git` and `GitHub`
+
+## I am currently
+- 🔬 Investigating mechanisms behind MND progression
+- 🌱 Growing my computational biology and bioinformatics toolkit
+- 🤝 Open to collaborations in neurodegeneration research
+
+## Fun facts
+- 🎵 I love Ricky Martin
+- 🏖️ I love going to the beach
+
+## Let's connect
+- 📫 Email: nfarrawe@uow.edu.au
+- 🔗 LinkedIn: https://www.linkedin.com/in/natalie-farrawell-1ab9a5a6/
+- 🧪 ORCID: (https://orcid.org/0000-0001-8060-4629)
+
+
